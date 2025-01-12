@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ContabilFacil")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Catalog.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8033192b3cfb9ab2399b26e01673b2bbef0d0b87")]
-[assembly: System.Reflection.AssemblyProductAttribute("ContabilFacil")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ContabilFacil")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b450effa50e1a450aae876bfe897ad16dde3c98")]
+[assembly: System.Reflection.AssemblyProductAttribute("Catalog.API")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Catalog.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
