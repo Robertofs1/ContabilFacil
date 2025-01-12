@@ -1,0 +1,6 @@
+﻿services:
+  contabilfacil:
+    image: contabilfacil
+    build:
+      context: .
+      dockerfile: ContabilFacil/Dockerfile
