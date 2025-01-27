@@ -1,28 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Contabil\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj": {}
+    "/Users/robertofs/workspace/ContabilFacil/src/Services/Catalog/Catalog.API/Catalog.API.csproj": {}
   },
   "projects": {
-    "E:\\Contabil\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj": {
+    "/Users/robertofs/workspace/ContabilFacil/src/BuildingBlocks/BuildingBlocks/BuildingBlocks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Contabil\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
+        "projectUniqueName": "/Users/robertofs/workspace/ContabilFacil/src/BuildingBlocks/BuildingBlocks/BuildingBlocks.csproj",
         "projectName": "BuildingBlocks",
-        "projectPath": "E:\\Contabil\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
-        "packagesPath": "C:\\Users\\roberto.frisanco\\.nuget\\packages\\",
-        "outputPath": "E:\\Contabil\\src\\BuildingBlocks\\BuildingBlocks\\obj\\",
+        "projectPath": "/Users/robertofs/workspace/ContabilFacil/src/BuildingBlocks/BuildingBlocks/BuildingBlocks.csproj",
+        "packagesPath": "/Users/robertofs/.nuget/packages/",
+        "outputPath": "/Users/robertofs/workspace/ContabilFacil/src/BuildingBlocks/BuildingBlocks/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\roberto.frisanco\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/robertofs/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "/Users/robertofs/.nuget/NuGet/LocalNuGetPackages": {},
+          "/opt/homebrew/Cellar/dotnet/9.0.0/libexec/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -46,6 +45,14 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "Carter": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.4.0, )"
+            },
             "MediatR": {
               "target": "Package",
               "version": "[12.2.0, )"
@@ -67,37 +74,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/9.0.0/libexec/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Contabil\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj": {
+    "/Users/robertofs/workspace/ContabilFacil/src/Services/Catalog/Catalog.API/Catalog.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Contabil\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+        "projectUniqueName": "/Users/robertofs/workspace/ContabilFacil/src/Services/Catalog/Catalog.API/Catalog.API.csproj",
         "projectName": "Catalog.API",
-        "projectPath": "E:\\Contabil\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
-        "packagesPath": "C:\\Users\\roberto.frisanco\\.nuget\\packages\\",
-        "outputPath": "E:\\Contabil\\src\\Services\\Catalog\\Catalog.API\\obj\\",
+        "projectPath": "/Users/robertofs/workspace/ContabilFacil/src/Services/Catalog/Catalog.API/Catalog.API.csproj",
+        "packagesPath": "/Users/robertofs/.nuget/packages/",
+        "outputPath": "/Users/robertofs/workspace/ContabilFacil/src/Services/Catalog/Catalog.API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\roberto.frisanco\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/robertofs/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "/Users/robertofs/.nuget/NuGet/LocalNuGetPackages": {},
+          "/opt/homebrew/Cellar/dotnet/9.0.0/libexec/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "E:\\Contabil\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj": {
-                "projectPath": "E:\\Contabil\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj"
+              "/Users/robertofs/workspace/ContabilFacil/src/BuildingBlocks/BuildingBlocks/BuildingBlocks.csproj": {
+                "projectPath": "/Users/robertofs/workspace/ContabilFacil/src/BuildingBlocks/BuildingBlocks/BuildingBlocks.csproj"
               }
             }
           }
@@ -135,7 +141,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/9.0.0/libexec/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
