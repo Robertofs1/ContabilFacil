@@ -1,0 +1,13 @@
+/Users/robertofs/workspace/ContabilFacil/src/BuildingBlocks/BuildingBlocks/bin/Debug/net9.0/BuildingBlocks.deps.json
+/Users/robertofs/workspace/ContabilFacil/src/BuildingBlocks/BuildingBlocks/bin/Debug/net9.0/BuildingBlocks.dll
+/Users/robertofs/workspace/ContabilFacil/src/BuildingBlocks/BuildingBlocks/bin/Debug/net9.0/BuildingBlocks.pdb
+/Users/robertofs/workspace/ContabilFacil/src/BuildingBlocks/BuildingBlocks/obj/Debug/net9.0/BuildingBlocks.csproj.AssemblyReference.cache
+/Users/robertofs/workspace/ContabilFacil/src/BuildingBlocks/BuildingBlocks/obj/Debug/net9.0/BuildingBlocks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertofs/workspace/ContabilFacil/src/BuildingBlocks/BuildingBlocks/obj/Debug/net9.0/BuildingBlocks.AssemblyInfoInputs.cache
+/Users/robertofs/workspace/ContabilFacil/src/BuildingBlocks/BuildingBlocks/obj/Debug/net9.0/BuildingBlocks.AssemblyInfo.cs
+/Users/robertofs/workspace/ContabilFacil/src/BuildingBlocks/BuildingBlocks/obj/Debug/net9.0/BuildingBlocks.csproj.CoreCompileInputs.cache
+/Users/robertofs/workspace/ContabilFacil/src/BuildingBlocks/BuildingBlocks/obj/Debug/net9.0/BuildingBlocks.sourcelink.json
+/Users/robertofs/workspace/ContabilFacil/src/BuildingBlocks/BuildingBlocks/obj/Debug/net9.0/BuildingBlocks.dll
+/Users/robertofs/workspace/ContabilFacil/src/BuildingBlocks/BuildingBlocks/obj/Debug/net9.0/refint/BuildingBlocks.dll
+/Users/robertofs/workspace/ContabilFacil/src/BuildingBlocks/BuildingBlocks/obj/Debug/net9.0/BuildingBlocks.pdb
+/Users/robertofs/workspace/ContabilFacil/src/BuildingBlocks/BuildingBlocks/obj/Debug/net9.0/ref/BuildingBlocks.dll
