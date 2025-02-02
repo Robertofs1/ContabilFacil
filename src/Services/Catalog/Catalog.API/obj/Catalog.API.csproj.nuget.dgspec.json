@@ -45,10 +45,6 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
-            "Carter": {
-              "target": "Package",
-              "version": "[9.0.0, )"
-            },
             "Mapster": {
               "target": "Package",
               "version": "[7.4.0, )"
@@ -122,6 +118,16 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Carter": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Marten": {
+              "target": "Package",
+              "version": "[7.37.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
