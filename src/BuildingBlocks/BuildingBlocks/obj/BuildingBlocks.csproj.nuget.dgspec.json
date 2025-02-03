@@ -1,27 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "/Users/robertofs/workspace/ContabilFacil/src/BuildingBlocks/BuildingBlocks/BuildingBlocks.csproj": {}
+    "E:\\Contabil\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj": {}
   },
   "projects": {
-    "/Users/robertofs/workspace/ContabilFacil/src/BuildingBlocks/BuildingBlocks/BuildingBlocks.csproj": {
+    "E:\\Contabil\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/robertofs/workspace/ContabilFacil/src/BuildingBlocks/BuildingBlocks/BuildingBlocks.csproj",
+        "projectUniqueName": "E:\\Contabil\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
         "projectName": "BuildingBlocks",
-        "projectPath": "/Users/robertofs/workspace/ContabilFacil/src/BuildingBlocks/BuildingBlocks/BuildingBlocks.csproj",
-        "packagesPath": "/Users/robertofs/.nuget/packages/",
-        "outputPath": "/Users/robertofs/workspace/ContabilFacil/src/BuildingBlocks/BuildingBlocks/obj/",
+        "projectPath": "E:\\Contabil\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
+        "packagesPath": "C:\\Users\\roberto.frisanco\\.nuget\\packages\\",
+        "outputPath": "E:\\Contabil\\src\\BuildingBlocks\\BuildingBlocks\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/robertofs/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\roberto.frisanco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "/Users/robertofs/.nuget/NuGet/LocalNuGetPackages": {},
-          "/opt/homebrew/Cellar/dotnet/9.0.0/libexec/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -70,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/9.0.0/libexec/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
